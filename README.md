@@ -12,16 +12,18 @@ Packages used:
 
 Features used:
 * Category 1: Create a dictionary or list, populate it with several values, retrieve at least one value, and use it in your program.
-      
-      Used dictionary to assign "Region" to each observation
+
+     * Used dictionary to assign "Region" to each observation
       
 * Category 2: Read data from an external file, such as text, JSON, CSV, etc, and use that data in your application.
-      
-      Imported CSV file.
+
+     * Imported CSV file.
       
 * Category 3:
 * Category 4:
 * Additional features:
+  
+     * Use a Jupyter notebook to document your data analysis.
 
 Special instructions:
 
