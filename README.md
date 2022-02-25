@@ -12,7 +12,8 @@ Packages used:
 
 Features used:
 * Category 1:
-* Category 2:
+* Category 2: Read data from an external file, such as text, JSON, CSV, etc, and use that data in your application.
+      - Imported CSV file.
 * Category 3:
 * Category 4:
 * Additional features:
