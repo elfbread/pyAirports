@@ -22,6 +22,8 @@ Features used:
 * Category 3:
 * Category 4:
 * Additional features:
+  
+     * Use a Jupyter notebook to document your data analysis.
 
 Special instructions:
 
