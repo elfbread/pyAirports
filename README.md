@@ -5,7 +5,16 @@ Data source: https://www.kaggle.com/khaiid/most-crowded-airports
 
 This project includes data for the most crowded airports around the world. The user selects a region of interest (from a list provided) and thep rogram auto-generates a line graph showing total number of passengers for airports in that region by year. Project includes a dictionary and a list, as well as a While loop.
 
-For this project, you should utilize the Juypter Notebook add on to VS Code. 
+Before starting, you need to download/install the following add ons in VS Code and Python packages:
+- VS Code with Jupyter Notebook add on
+- Pandas
+- matplotlib.pyplot
+- numpy
+- matplotlib.ticker
+- logging
+- sys
+
+For this project, you should utilize the Juypter Notebook add on to VS Code. Clone the repo to your computer. Navigate to the folder and open airport.ipynb with VS Code. 
 
 Packages used:
 * numPy
@@ -28,7 +37,7 @@ Features used:
 
 * Category 4:
 
-     * PENDING
+     * Implement a log that records errors, invalid inputs, or other important events and writes them to a text file.
 
 * Additional features:
   
