@@ -5,6 +5,8 @@ Data source: https://www.kaggle.com/khaiid/most-crowded-airports
 
 This project includes data for the most crowded airports around the world. The user selects a region of interest (from a list provided) and thep rogram auto-generates a line graph showing total number of passengers for airports in that region by year. Project includes a dictionary and a list, as well as a While loop.
 
+For this project, you should utilize Juypter Notebook. 
+
 Packages used:
 * numPy
 * Pandas
@@ -32,7 +34,3 @@ Features used:
   
      * Use a Jupyter notebook to document your data analysis.
      * Use pandas, matplotlib, and/or numpy to perform a data analysis project. Ingest 2 or more pieces of data, analyze that data in some manner, and display a new result to a graph, chart, or other display.
-
-Special instructions:
-
-Describe the data used in the analysis:
