@@ -5,7 +5,8 @@ Data source: https://www.kaggle.com/khaiid/most-crowded-airports
 
 This project includes data for the most crowded airports around the world. The user selects a region of interest (from a list provided) and the program auto-generates a line graph showing total number of passengers for airports in that region by year. Project includes a dictionary and a list, as well as a While loop.
 
-Before starting, you need to download/install the following add on in VS Code and the following Python packages:
+Before starting, you need to download/install the following add on in VS Code and the following Python packagage (using command prompt and python -m pip install PackageName):
+
 - VS Code with Jupyter Notebook add on
 - Pandas
 - matplotlib.pyplot
