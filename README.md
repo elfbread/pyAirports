@@ -1,4 +1,4 @@
-##$ pyAirports
+### pyAirports
 Python airports project for Code Louisville in spring 2022.
 
 Data source: https://www.kaggle.com/khaiid/most-crowded-airports
@@ -9,7 +9,7 @@ Before starting, you need to download/install the following add on in VS Code: (
 
 Package requirements are listed in the requirements.txt file install the libraries in the requirements.txt:
 
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 Packages include:
 - Pandas
