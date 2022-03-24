@@ -16,7 +16,7 @@ Before starting, you need to download/install the following add on in VS Code an
 
 For this project, you should utilize the Juypter Notebook add on to VS Code. Clone the repo to your computer. Navigate to the folder and open airport.ipynb with VS Code. The file import uses a public CSV saved in Google Sheets, a work around for users utilizing different operating systems (not having to adjust the import statement/file path).
 
-![Alt text](set kernel screenshot.png)
+![Alt text](kernel.png)
 
 Packages used:
 * numPy
