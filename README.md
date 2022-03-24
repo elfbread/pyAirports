@@ -9,9 +9,7 @@ Before starting, you need to download/install the following add on in VS Code an
 
 - VS Code with Jupyter Notebook add on
 - Pandas
-- matplotlib.pyplot
 - numpy
-- matplotlib.ticker
 - logging
 - sys
 
