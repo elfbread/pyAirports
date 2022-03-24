@@ -1,13 +1,13 @@
-## pyAirports
+##$ pyAirports
 Python airports project for Code Louisville in spring 2022.
 
 Data source: https://www.kaggle.com/khaiid/most-crowded-airports
 
 This project includes data for the most crowded airports around the world. The user selects a region of interest (from a list provided) and the program auto-generates a line graph showing total number of passengers for airports in that region by year. Project includes a dictionary and a list, as well as a While loop.
 
-# Before starting, you need to download/install the following add on in VS Code: (SCREENSHOT OF JUPYTER NOTEBOOK ADDON)
+Before starting, you need to download/install the following add on in VS Code: (SCREENSHOT OF JUPYTER NOTEBOOK ADDON)
 
-# Package requirements are listed in the requirements.txt file install the libraries in the requirements.txt:
+Package requirements are listed in the requirements.txt file install the libraries in the requirements.txt:
 
 pip install -r requirements.txt
 
