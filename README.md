@@ -3,18 +3,18 @@
 
 Data source: https://www.kaggle.com/khaiid/most-crowded-airports
 
-This project includes data for the most crowded airports around the world. The user selects a region of interest (from a list provided) and thep rogram auto-generates a line graph showing total number of passengers for airports in that region by year. Project includes a dictionary and a list, as well as a While loop.
+This project includes data for the most crowded airports around the world. The user selects a region of interest (from a list provided) and the program auto-generates a line graph showing total number of passengers for airports in that region by year. Project includes a dictionary and a list, as well as a While loop.
 
-Before starting, you need to download/install the following add ons in VS Code and Python packages:
+Before starting, you need to download/install the following add on in VS Code and the following Python packagage (using command prompt and python -m pip install PackageName):
+
 - VS Code with Jupyter Notebook add on
 - Pandas
-- matplotlib.pyplot
 - numpy
-- matplotlib.ticker
+- matplotlib
 - logging
 - sys
 
-For this project, you should utilize the Juypter Notebook add on to VS Code. Clone the repo to your computer. Navigate to the folder and open airport.ipynb with VS Code. 
+For this project, you should utilize the Juypter Notebook add on to VS Code. Clone the repo to your computer. Navigate to the folder and open airport.ipynb with VS Code. The file import uses a public CSV saved in Google Sheets, a work around for users utilizing different operating systems (not having to adjust the import statement/file path).
 
 Packages used:
 * numPy
@@ -29,7 +29,7 @@ Features used:
       
 * Category 2: Read data from an external file, such as text, JSON, CSV, etc, and use that data in your application.
 
-     * Imported CSV file
+     * Imported CSV file (permanent, public location on Google Sheets/Drive)
       
 * Category 3: Visualize data in a graph, chart, or other visual representation of data.
 
