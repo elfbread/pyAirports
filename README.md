@@ -7,7 +7,8 @@ This project includes data for the most crowded airports around the world. The u
 
 ## Start-up instructions
 
-Before starting, you need to download/install the following add on in VS Code: (SCREENSHOT OF JUPYTER NOTEBOOK ADDON)
+Before starting, you need to download/install the following extensions in VS Code for Jupyter Notebook:
+![Jupyter extension](extensions.png)
 
 Clone the repo to your computer. 
 
@@ -22,10 +23,10 @@ Packages include:
 - logging
 - sys
 
-Navigate to the folder and open airport.ipynb with VS Code. The file import uses a public CSV saved in Google Sheets, a work around for users utilizing different operating systems (not having to adjust the import statement/file path).
+Navigate to the folder and open airport.ipynb with VS Code. Be sure to update the kernel in the upper right of VS Code (as shown in the screenshot below).The file import uses a public CSV saved in Google Sheets, a work around for users utilizing different operating systems (not having to adjust the import statement/file path).
 ## Important - be sure to update the kernel to the venv you are using in the upper right corner of VS Code (screenshot for assistance below):
 
-![Alt text](kernel.png)
+![Setting kernel in VS Code](kernel.png)
 
 ## Let's talk project requirements:
 Features used:
