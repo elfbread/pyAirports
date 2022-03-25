@@ -8,6 +8,7 @@ This project includes data for the most crowded airports around the world. The u
 ## Start-up instructions
 
 Before starting, you need to download/install the following extensions in VS Code for Jupyter Notebook:
+
 ![Jupyter extension](extension.png)
 
 Clone the repo to your computer. 
@@ -27,6 +28,10 @@ Navigate to the folder and open airport.ipynb with VS Code. Be sure to update th
 ## Important - be sure to update the kernel to the venv you are using in the upper right corner of VS Code (screenshot for assistance below):
 
 ![Setting kernel in VS Code](kernel.png)
+
+Also important to note: When you run the code block to input a region, the input box will show up at the top of the VS Code window. The code block will show as still running until you enter a region. You cannot continue to run the program until you enter a region in the input box: 
+
+![Input region selection in VS Code](region_input.png)
 
 ## Let's talk project requirements:
 Features used:
