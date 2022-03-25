@@ -8,7 +8,7 @@ This project includes data for the most crowded airports around the world. The u
 ## Start-up instructions
 
 Before starting, you need to download/install the following extensions in VS Code for Jupyter Notebook:
-
+![Jupyter extension](extension.png)
 
 Clone the repo to your computer. 
 
